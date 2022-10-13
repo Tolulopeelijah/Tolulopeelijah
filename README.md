@@ -25,7 +25,7 @@ Hi there, I'm a Deep learning student and researcher who is fascinated and stron
  
 <h2>Languages and Technologies: </h2>
 <ul>
-  <li>Python</li><li>Sklearn</li><li>Pytorch</li><li>Pandas</li><li>Numpy</li><li>Matplotlib</li><li>OpenCV</li>
+  <li>Python</li><li>Sklearn</li><li>Pytorch</li><li>Tensorflow</li><li>Keras</li><li>Pandas</li><li>Numpy</li><li>Matplotlib</li><li>OpenCV</li>
   <li>Supervised Learning, Unsupervised Learning, Reinforcement Learning</li>
   <li>Generative Adversarial Networks</li>
   <li>Recurrent Neural Network</li>
