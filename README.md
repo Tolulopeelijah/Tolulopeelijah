@@ -1,5 +1,5 @@
 <p><h1>Tolulope Elijah</h1></p>
-Hi there, I'm a Deep learning student and researcher who is fascinated and strongly interested in data technologies, I'm open to oppportunities
+Hello world, I'm a Deep learning student and researcher who is fascinated and strongly interested in data technologies, I'm open to oppportunities
 <li>I'm currently learning Cloud Computing, and advanced opencv<br /></li>
 <li>I'm currently working on a model that detect road signs, and their distance and output a prompt in text</li>
 
