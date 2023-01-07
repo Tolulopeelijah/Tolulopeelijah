@@ -1,8 +1,7 @@
 <p><h1>Tolulope Elijah</h1></p>
 Hello world, I'm a Deep learning student and researcher who is fascinated and strongly interested in data technologies, I'm open to oppportunities
-<li>I'm currently learning Cloud Computing, and advanced opencv<br /></li>
-<li>I'm currently working on a model that detect road signs, and their distance and output a prompt in text</li>
-
+<li>I'm currently practicing my skill on kaggle and zindi competitions<br /></li>
+<li>I'm currently working on a model that differentiate a dog from a cat          <a href = https://github.com/Tolulopeelijah/Cats-vs-Dog-classifier>notebook here</a></li>
 <p><h2>Check out and follow me on my social handles</h2>
 <h4><a href=mailto:tolulopee90@gmail.com alt = tolulopee90@gmail.com>tolulopee90@gmail.com</a></h4>
 <a href="https://twitter.com/Tolulopee90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tolulope" height="30" width="40" /></a>
