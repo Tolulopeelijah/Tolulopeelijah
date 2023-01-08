@@ -32,6 +32,7 @@ Hello world, I'm a Deep learning student and researcher who is fascinated and st
   <li>Deep Neural Network</li>
   <li>Huawei Cloud</li>
  </ul>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tolulopeelijah&label=Profile%20views&color=0e75b6&style=flat" alt="Tolulope" /></p>
 <p><img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolulopeelijah&show_icons=true&theme=gotham" alt="Tolulope" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Tolulopeelijah&show_icons=true&theme=gotham" alt="Tolulope" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tolulopeelijah&theme=gotham" alt="eskayML" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tolulopeelijah&theme=gotham" alt="Tolulope" /></p>
