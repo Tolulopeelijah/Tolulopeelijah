@@ -9,12 +9,13 @@ Hello world, I'm a Deep learning student and researcher who is fascinated and st
 <a href="https://www.linkedin.com/in/tolulope-elijah-99b6a5207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tolulope" height="30" width="40" /></a></p>
 
 
-<h2>My Favorite repositories</h2>
-<ul>
-  <li><a href = "https://github.com/Tolulopeelijah/data-structures-and-algorithms-implementation">Implementation of some algorithms</a></li>
-  <li><a href = "https://github.com/Tolulopeelijah/Transformer-implementation">Transformer implementation</a></li>
-  <li><a href = "https://github.com/Tolulopeelijah/Movie-recommender-system">Movie Recommendation System</a></li>
-</ul>
+
+| <h2>My Favorite Repositories</h2>                                                                                                 |
+|-----------------------------------------------------------------------------------------------------------------------------------|
+| [Implementation of some algorithms](https://github.com/Tolulopeelijah/data-structures-and-algorithms-implementation)              |
+| [Transformer implementation](https://github.com/Tolulopeelijah/Transformer-implementation)                                        |
+| [Movie Recommendation System](https://github.com/Tolulopeelijah/Movie-recommender-system)                                         |
+
 
 
 <h2>Specialized in:</h2>
