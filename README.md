@@ -1,7 +1,9 @@
 <p><h1>Tolulope Elijah</h1></p>
 Hello, world! I'm a deep learning student and aspiring researcher with a strong passion for AI. I’m particularly interested in advancing AI research and would love to collaborate or team up on research projects or innovative initiatives. Let’s connect and create something impactful together!
 <li>I'm currently exploring various research papers and plan to implement some of them here as I progress.<br /></li>
-<li>I'm currently implementing the Transformer model from scratch based on the <i>Attention Is All You Need</i> paper. You can find my progress in this <a href="https://github.com/Tolulopeelijah/transformer-implementation">notebook here</a>.</li>
+<li>Recently, I’ve been diving into performance engineering alongside my research journey, focusing on how to make models and systems faster, more efficient, and scalable.</li>
+<li>While I’m actively pursuing research interests, I’m also open to roles in machine learning and data science, keeping a balance between academic exploration and industry application.</li>
+
 <p><h2>Check out and follow me on my social handles</h2>
 <h4><a href=mailto:tolulopee90@gmail.com alt = tolulopee90@gmail.com>tolulopee90@gmail.com</a></h4>
 <a href="https://twitter.com/Tolulopee90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tolulope" height="30" width="40" /></a>
